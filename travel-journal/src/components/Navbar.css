@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    gap:10px;
+    background-color: #F55A5A;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    text-transform: lowercase;
+    padding: 5px;
+}
+
